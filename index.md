@@ -6,6 +6,7 @@ Villain's Eye is a FRC camera built on the OpenMV chip.
 
 
 || Raspberry Pi and Webcam | Limelight | Villain's Eye|
+|-|-|-|-|
 |Network Configuration| Y | N | N |
 |Students can write vision code| Y | N | Y |
 |Open Source| Y | N | Y |
